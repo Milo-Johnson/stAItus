@@ -1,0 +1,3 @@
+docker
+schedule
+openai==0.28
